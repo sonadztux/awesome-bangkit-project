@@ -9,6 +9,10 @@ Bangkit Academy (or just Bangkit) is offered as an approved Kampus Merdeka progr
 ## Bangkit Capstone Project
 Capstone project is one of the graduation requirements for students from Bangkit. This project demands student collaboration between learning paths, so the end result is an android application with machine learning algorithms and cloud services on the backend. 
 
+```
+NOTE: All project credits belong to the project developer. 
+```
+
 There are also several themes for the project:
 * [Competitive Human Resources](#competitive-human-resources)
 * [Economic Resilience](#economic-resilience)
@@ -23,6 +27,8 @@ There are also several themes for the project:
 * [Education & Research](#education--research)
 * [Food Security](#food-security)
 
+- - -
+
 ### Competitive Human Resources
 ### Economic Resilience
 ### Healthcare
@@ -31,6 +37,9 @@ There are also several themes for the project:
 ### National Identity & Character Building
 ### Political Stability, Rule of Law, National Security & Public Services Transformation
 * [PhotocuratioN](https://github.com/sonadztux/neverland) - an easy to use Android App to predict manipulated image focused on human face.
+
+- - -
+
 ### Women Empowerment and Child Protection
 ### Environmental Conservation, Disaster Resilience, and Climate Change
 ### Regional Development
