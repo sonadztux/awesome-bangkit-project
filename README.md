@@ -37,6 +37,7 @@ There are also several themes for the project:
 ### National Identity & Character Building
 ### Political Stability, Rule of Law, National Security & Public Services Transformation
 * [PhotocuratioN](https://github.com/sonadztux/neverland) - an easy to use Android App to predict manipulated image focused on human face.
+* [My Awesome Bangkit Project](https://awesome-project.com) - an awesome Android App to help your diet program.
 
 - - -
 
