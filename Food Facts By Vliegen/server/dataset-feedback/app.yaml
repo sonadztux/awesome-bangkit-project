@@ -1,0 +1,27 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
+
+env_variables:
+  APP_LOG: errorlog
+  APP_KEY: base64:rEu16ZN3DXa8RwXt5TikMsYYKXjXffozb3csV2BdEK8=
+  FILESYSTEM_DRIVER: gcs
+  GOOGLE_CLOUD_PROJECT_ID: capstone-315021
+  GOOGLE_CLOUD_STORAGE_BUCKET: capstone-315021.appspot.com
+  APP_STORAGE: /tmp
+  VIEW_COMPILED_PATH: /tmp
+  SESSION_DRIVER: cookie
+  DB_DATABASE: feedback
+  DB_USERNAME: root
+  DB_PASSWORD: root
+  ## for MYSQL, use DB_SOCKET:
+  DB_SOCKET: "/cloudsql/capstone-315021:us-central1:feedback"
+
+beta_settings:
+  cloud_sql_instances: "capstone-315021:us-central1:feedback"
+
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 2

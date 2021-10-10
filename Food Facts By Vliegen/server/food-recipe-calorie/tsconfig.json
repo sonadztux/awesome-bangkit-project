@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./build",
+
+    "target": "es6",
+    "lib": ["esnext"],
+
+    "allowJs": true,
+    "alwaysStrict": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+  }
+}
