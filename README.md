@@ -38,6 +38,7 @@ There are also several themes for the project:
 ### National Identity & Character Building
 ### Political Stability, Rule of Law, National Security & Public Services Transformation
 * [PhotocuratioN](https://github.com/sonadztux/neverland) - an easy to use Android App to predict manipulated image focused on human face.
+* [VERIFY](https://github.com/B21-CAP0133/verify-android-app) - easy to use Android App for fact-checking and hoax news prediction.
 
 - - -
 
