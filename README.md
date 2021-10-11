@@ -34,7 +34,7 @@ There are also several themes for the project:
 ### Healthcare
 * [COVX](https://github.com/equivalency/covx_app) - android application for COVID-19 detection using chest x-ray images.  
 * [FoodFacts](https://github.com/alanmsmxyz/cap419x) - an app that could detect the amount of calories and nutrients of food by taking pictures of it, then keep track of what kind of food you eat throughout the day. 
-* [Medicare](https://github.com/naufalhakim23/Medicare-GotongRoyong) - Digital Medical Records and Predicting Risks of Diabetes one of many Chronic Diseases through mobile apps, cloud computing, and machine learning.
+
 ### Infrastructure Development
 ### Mobility & Smart City
 ### National Identity & Character Building
