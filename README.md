@@ -45,6 +45,7 @@ There are also several themes for the project:
 - - -
 
 ### Women Empowerment and Child Protection
+* [xatyx](https://github.com/xatryx/es-discord-OreoniteManganese) - a Discord bot for detecting offensive word.
 ### Environmental Conservation, Disaster Resilience, and Climate Change
 ### Regional Development
 ### Education & Research
